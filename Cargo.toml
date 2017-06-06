@@ -1,0 +1,6 @@
+[package]
+name = "racpi_handler"
+version = "0.0.1"
+authors = ["edwinandrivet"]
+
+[dependencies]
